@@ -1,5 +1,5 @@
 version: 0.0
-os: Windows
+os: windows
 files:
   - source: /mysqlsampledatabase.sql
     destination: /home/ec2-user/
